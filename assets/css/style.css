@@ -1,10 +1,12 @@
 body {
     margin: 0 auto;
+    background-image: url(../images/memphis-mini.png);
 }
 header {
     background-color: #ffffff;
     border-color: #cccccc;
     margin-left: 160px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 main {
     background-color: #ffffff;
@@ -40,5 +42,14 @@ p {
 footer {
     clear: both;
     background-color: #666666;
+    color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
