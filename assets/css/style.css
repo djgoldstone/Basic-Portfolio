@@ -5,7 +5,26 @@ header {
     background-color: #4aaaa5;
     color: white;
 }
+nav {
+    float: right;
+}
+section {
+    margin: 0 auto;
+
+}
 h1 {
     color: aquamarine;
     font-size: 28px;
+}
+img {
+    width: 175px;
+    height: 250px;
+    float: left;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+p {
+}
+footer {
+    clear: both;
 }
