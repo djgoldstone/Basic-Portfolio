@@ -1,19 +1,11 @@
 body {
-    background-color: #efeee7;
-    font-family: Georgia,'Times New Roman', Times, serif;
-    color: #333333;
     margin: 0 auto;
-    padding: 0;
 }
 header {
-    background-color: #333333;
+    background-color: #4aaaa5;
+    color: white;
 }
 h1 {
     color: aquamarine;
     font-size: 28px;
-    margin: 15;
-    padding: 15;
-}
-h2 {
-    font-size: 24px;
 }
