@@ -2,19 +2,29 @@ body {
     margin: 0 auto;
 }
 header {
-    background-color: #4aaaa5;
-    color: white;
+    background-color: #ffffff;
+    border-color: #cccccc;
+    margin-left: 160px;
+}
+main {
+    background-color: #ffffff;
+    border-color: #dddddd;
+    border: thick;
+    width: 960px;
+    margin: 0 auto;
 }
 nav {
     float: right;
+    margin-right: 160px;
 }
 section {
     margin: 0 auto;
 
 }
 h1 {
-    color: aquamarine;
+    color: #4aaaa5;
     font-size: 28px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 img {
     width: 175px;
@@ -24,7 +34,11 @@ img {
     margin-bottom: 10px;
 }
 p {
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
 }
 footer {
     clear: both;
+    background-color: #666666;
+    font-family: Arial, Helvetica, sans-serif;
 }
